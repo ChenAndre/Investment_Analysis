@@ -1,0 +1,5 @@
+gspread==5.4.0
+google-auth==2.6.6
+pandas==1.4.3
+matplotlib==3.5.2
+Flask==2.1.2

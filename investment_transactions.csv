@@ -1,0 +1,72 @@
+Date,Description,Amount,Account,Merchant,TransactionID,Pending
+2024-01-05,Initial fund capital deployment to Equity Fund,15750000.75,Equity Fund,Capital Investors LP,tx_a7e41d03b5c2,No
+2024-01-07,Initial fund capital deployment to Value Fund,20435621.87,Value Fund,Capital Investors LP,tx_b8f52c14d6e3,No
+2024-01-10,Initial fund capital deployment to Tech Fund,18965320.42,Tech Fund,Capital Investors LP,tx_c9f63e25f7g4,No
+2024-01-12,Initial fund capital deployment to Balanced Fund,12340765.93,Balanced Fund,Capital Investors LP,tx_d10g74h36i5,No
+2024-01-15,Initial fund capital deployment to Opportunity Fund,25675432.18,Opportunity Fund,Capital Investors LP,tx_e11h85i47j6,No
+2024-01-21,Purchase 25000 shares of Apple Inc. (AAPL),-4012750.50,Tech Fund,Investment Exchange,tx_f12i96j58k7,No
+2024-01-30,Accumulate 15000 shares of Microsoft Corporation (MSFT),-4236750.25,Tech Fund,Investment Exchange,tx_g13j07k69l8,No
+2024-02-03,Long position 32500 shares in Nvidia Corporation (NVDA),-10867500.75,Tech Fund,Investment Exchange,tx_h14k18l70m9,No
+2024-02-10,Strategic acquisition of 18700 shares of Amazon.com Inc. (AMZN),-5984000.50,Equity Fund,Investment Exchange,tx_i15l29m81n0,No
+2024-02-15,Purchase 42500 shares of Tesla Inc. (TSLA),-7905250.25,Opportunity Fund,Investment Exchange,tx_j16m30n92o1,No
+2024-02-22,Initial investment in Meta Platforms Inc. (META): 28000 shares,-8547600.00,Tech Fund,Investment Exchange,tx_k17n41o03p2,No
+2024-02-28,Management fee,-82450.75,Balanced Fund,Financial Services Inc.,tx_l18o52p14q3,No
+2024-03-05,Purchase 12500 shares of JPMorgan Chase & Co. (JPM),-2012500.00,Value Fund,Investment Exchange,tx_m19p63q25r4,No
+2024-03-12,Dividend received from Procter & Gamble Co. (PG),125678.50,Value Fund,Procter & Gamble Co.,tx_n20q74r36s5,No
+2024-03-18,Sell 8500 shares of Apple Inc. (AAPL),1462750.25,Tech Fund,Investment Exchange,tx_o21r85s47t6,No
+2024-03-25,Quarterly dividend payout from Microsoft Corporation (MSFT),87450.75,Tech Fund,Microsoft Corporation,tx_p22s96t58u7,No
+2024-04-02,Trading commission fees,-35678.25,Equity Fund,Financial Services Inc.,tx_q23t07u69v8,No
+2024-04-10,Purchase 32000 shares of Visa Inc. (V),-8576000.00,Balanced Fund,Investment Exchange,tx_r24u18v70w9,No
+2024-04-15,Accumulate 45000 shares of Bank of America Corporation (BAC),-1714500.00,Value Fund,Investment Exchange,tx_s25v29w81x0,No
+2024-04-22,Liquidate 16500 shares of Tesla Inc. (TSLA),3465750.25,Opportunity Fund,Investment Exchange,tx_t26w30x92y1,No
+2024-04-30,Dividend income from Exxon Mobil Corporation (XOM) holding,184562.75,Value Fund,Exxon Mobil Corporation,tx_u27x41y03z2,No
+2024-05-05,Profit-taking: sell 15000 shares of Nvidia Corporation (NVDA),5287500.50,Tech Fund,Investment Exchange,tx_v28y52z14a3,No
+2024-05-12,Portfolio audit fee,-56789.25,Equity Fund,Financial Services Inc.,tx_w29z63a25b4,No
+2024-05-18,Long position 28500 shares in The Walt Disney Company (DIS),-3021750.25,Opportunity Fund,Investment Exchange,tx_x30a74b36c5,No
+2024-05-25,Close position in Meta Platforms Inc. (META): 12500 shares,4237500.75,Tech Fund,Investment Exchange,tx_y31b85c47d6,No
+2024-06-03,Purchase 21000 shares of UnitedHealth Group Inc. (UNH),-10248000.00,Balanced Fund,Investment Exchange,tx_z32c96d58e7,No
+2024-06-10,Special dividend from Berkshire Hathaway Inc. (BRK.B),215670.25,Value Fund,Berkshire Hathaway Inc.,tx_a33d07e69f8,No
+2024-06-15,Strategic divestment of 9750 shares of Amazon.com Inc. (AMZN),3198750.50,Equity Fund,Investment Exchange,tx_b34e18f70g9,No
+2024-06-22,Purchase 36500 shares of Mastercard Incorporated (MA),-13870000.00,Tech Fund,Investment Exchange,tx_c35f29g81h0,No
+2024-06-28,Administrative expense,-42567.75,Tech Fund,Financial Services Inc.,tx_d36g30h92i1,No
+2024-07-05,Accumulate 18500 shares of Home Depot Inc. (HD),-6105000.00,Value Fund,Investment Exchange,tx_e37h41i03j2,No
+2024-07-12,Dividend received from Pfizer Inc. (PFE),78450.50,Balanced Fund,Pfizer Inc.,tx_f38i52j14k3,No
+2024-07-18,Sell 22500 shares of Microsoft Corporation (MSFT),7762500.25,Tech Fund,Investment Exchange,tx_g39j63k25l4,No
+2024-07-25,Purchase 32500 shares of Adobe Inc. (ADBE),-14950000.00,Opportunity Fund,Investment Exchange,tx_h40k74l36m5,No
+2024-08-02,Quarterly dividend payout from Visa Inc. (V),134560.75,Balanced Fund,Visa Inc.,tx_i41l85m47n6,No
+2024-08-08,Liquidate 14500 shares of UnitedHealth Group Inc. (UNH),7685000.50,Balanced Fund,Investment Exchange,tx_j42m96n58o7,No
+2024-08-15,Research and analysis services,-78905.25,Opportunity Fund,Financial Services Inc.,tx_k43n07o69p8,No
+2024-08-22,Strategic acquisition of 27500 shares of Broadcom Inc. (AVGO),-21175000.00,Tech Fund,Investment Exchange,tx_l44o18p70q9,No
+2024-08-28,Profit-taking: sell 18000 shares of Home Depot Inc. (HD),6210000.25,Value Fund,Investment Exchange,tx_m45p29q81r0,No
+2024-09-05,Purchase 42000 shares of JPMorgan Chase & Co. (JPM),-7098000.00,Value Fund,Investment Exchange,tx_n46q30r92s1,No
+2024-09-12,Initial investment in Procter & Gamble Co. (PG): 22500 shares,-3397500.00,Balanced Fund,Investment Exchange,tx_o47r41s03t2,No
+2024-09-18,Dividend income from Adobe Inc. (ADBE) holding,95678.50,Opportunity Fund,Adobe Inc.,tx_p48s52t14u3,No
+2024-09-25,Sell 15500 shares of Broadcom Inc. (AVGO),12607500.75,Tech Fund,Investment Exchange,tx_q49t63u25v4,No
+2024-10-02,Performance fee,-125780.25,Tech Fund,Financial Services Inc.,tx_r50u74v36w5,No
+2024-10-08,Long position 32500 shares in Bank of America Corporation (BAC),-1267500.00,Equity Fund,Investment Exchange,tx_s51v85w47x6,No
+2024-10-15,Close position in UnitedHealth Group Inc. (UNH): 6500 shares,3445500.50,Balanced Fund,Investment Exchange,tx_t52w96x58y7,No
+2024-10-22,Purchase 17500 shares of Exxon Mobil Corporation (XOM),-1522500.00,Value Fund,Investment Exchange,tx_u53x07y69z8,No
+2024-10-28,Quarterly dividend payout from Apple Inc. (AAPL),112890.25,Tech Fund,Apple Inc.,tx_v54y18z70a9,No
+2024-11-05,Accumulate 24000 shares of The Walt Disney Company (DIS),-2568000.00,Opportunity Fund,Investment Exchange,tx_w55z29a81b0,No
+2024-11-12,Dividend received from Mastercard Incorporated (MA),165430.50,Tech Fund,Mastercard Incorporated,tx_x56a30b92c1,No
+2024-11-18,Liquidate 21500 shares of JPMorgan Chase & Co. (JPM),3913000.75,Value Fund,Investment Exchange,tx_y57b41c03d2,No
+2024-11-25,Purchase 38000 shares of Alphabet Inc. (GOOGL),-5320000.00,Tech Fund,Investment Exchange,tx_z58c52d14e3,No
+2024-12-02,Strategic divestment of 15500 shares of Bank of America Corporation (BAC),651000.25,Equity Fund,Investment Exchange,tx_a59d63e25f4,No
+2024-12-08,Administrative expense,-67890.75,Value Fund,Financial Services Inc.,tx_b60e74f36g5,No
+2024-12-15,Purchase 23500 shares of Procter & Gamble Co. (PG),-3666000.00,Balanced Fund,Investment Exchange,tx_c61f85g47h6,No
+2024-12-22,Profit-taking: sell 18500 shares of Adobe Inc. (ADBE),9250000.50,Opportunity Fund,Investment Exchange,tx_d62g96h58i7,No
+2024-12-29,Special dividend from Visa Inc. (V),198450.25,Balanced Fund,Visa Inc.,tx_e63h07i69j8,No
+2025-01-05,Initial investment in Tesla Inc. (TSLA): 16500 shares,-3300000.00,Opportunity Fund,Investment Exchange,tx_f64i18j70k9,No
+2025-01-12,Dividend income from JPMorgan Chase & Co. (JPM) holding,87650.75,Value Fund,JPMorgan Chase & Co.,tx_g65j29k81l0,No
+2025-01-18,Sell 12500 shares of Alphabet Inc. (GOOGL),1875000.50,Tech Fund,Investment Exchange,tx_h66k30l92m1,No
+2025-01-25,Management fee,-98765.25,Opportunity Fund,Financial Services Inc.,tx_i67l41m03n2,No
+2025-02-02,Long position 28000 shares in Apple Inc. (AAPL),-4760000.00,Tech Fund,Investment Exchange,tx_j68m52n14o3,No
+2025-02-08,Strategic acquisition of 19500 shares of Visa Inc. (V),-5265000.00,Balanced Fund,Investment Exchange,tx_k69n63o25p4,No
+2025-02-15,Close position in Exxon Mobil Corporation (XOM): 8500 shares,816000.75,Value Fund,Investment Exchange,tx_l70o74p36q5,No
+2025-02-22,Quarterly dividend payout from Broadcom Inc. (AVGO),173420.25,Tech Fund,Broadcom Inc.,tx_m71p85q47r6,No
+2025-02-28,Purchase 26500 shares of Meta Platforms Inc. (META),-8212500.00,Tech Fund,Investment Exchange,tx_n72q96r58s7,No
+2025-01-04,Purchase 28500 shares of Microsoft Corporation (MSFT),-8692500.00,Tech Fund,Investment Exchange,tx_o12r07s69t8,No
+2025-01-09,Accumulate 19000 shares of Alphabet Inc. (GOOGL),-2660000.00,Tech Fund,Investment Exchange,tx_p13s18t70u9,No
+2025-01-16,Dividend received from Tesla Inc. (TSLA),57890.25,Opportunity Fund,Tesla Inc.,tx_q14t29u81v0,No
+2025-01-22,Liquidate 11000 shares of Meta Platforms Inc. (META),3850000.50,Tech Fund,Investment Exchange,tx_r15u30v92w1,No
+2025-01-29,Research and analysis services,-56780.75,Equity Fund,Financial Services Inc.,tx_s16
